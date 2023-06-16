@@ -8,4 +8,6 @@
 ### 3. tried to auto-init inlang config (but failed)
 ![image](https://github.com/LongarMD/inlang-843/assets/21366959/d043d7f6-de8f-4d34-8e35-253b024ec4f9)
 
-### 4. Manually added config, updated vite config
+### 4. `pnpm add -D @inlang/sdk-js`
+
+### 5. Manually added config, updated vite config
